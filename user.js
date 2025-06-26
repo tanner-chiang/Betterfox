@@ -246,6 +246,8 @@ user_pref("browser.search.suggest.enabled", true);
 
 // PREF: show weather on New Tab page
 user_pref("browser.newtabpage.activity-stream.showWeather", true);
+// PREF: enable container tabs
+user_pref("privacy.userContext.enabled", true);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
